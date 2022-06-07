@@ -102,5 +102,3 @@ void main() {
 //practise
 /*registerUser1(String email, String password, [String? firstName, String? lastName]) => "$firstName $lastName";
 registerUser2({required String email, required String password, String? firstName, String? lastName}) => "$email $password";*/
-
-sdddssgt
